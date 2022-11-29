@@ -6,7 +6,7 @@ Skapa ett Firebaseprojekt och konfigurera upp er applikation så den ansluts mot
 
 Tutorial: https://firebase.google.com/docs/web/setup?authuser=0&hl=en
 
-Sedan ska du skapa en webbsida där man kan se och lägga till Shakespeare insults som ska sparas i din Firestore databas. Det du ska sparas ska vara ett objekt med två egenskaper `insult` och `play`.
+Sedan ska du skapa en webbsida där man kan se och lägga till Shakespeare insults som ska sparas i din Firestore databas. Det du ska sparas ska vara ett objekt med två egenskaper `insult` och `play`. Förolämpningarna ska läggas till av en användaren via inputfält.
 
 Ex:
 ```
