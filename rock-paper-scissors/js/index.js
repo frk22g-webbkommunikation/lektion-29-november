@@ -53,6 +53,8 @@ function showWinner(winner) {
                 <p>Förluster: ${stats.loses}</p>
                 <p>Oavgjort: ${stats.draws}</p>
             `
+    
+            resetGame();
         } else {
             document.getElementById('winner').innerHTML = winner;
         }
